@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@progress/kendo-react-buttons": "^17.0.0",
+    "@progress/kendo-react-grid": "^17.0.0",
     "@progress/kendo-theme-default": "^14.10.1",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
